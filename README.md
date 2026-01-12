@@ -3,7 +3,7 @@ This project analyzes Superstore sales data to identify trends, category perform
 
 ## Sales Trend Insights
 - Sales consistently peak in Q4 (October–December), indicating strong seasonality driven by year-end demand.
-- 
+  
 ## Category Analysis
 - Technology generates the highest sales and profit, making it the strongest-performing category.
 - Furniture shows relatively high sales but significantly lower profit, suggesting margin or cost issues.
