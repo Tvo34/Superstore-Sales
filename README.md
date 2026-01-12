@@ -17,3 +17,13 @@ This project analyzes Superstore sales data to identify trends, category perform
 - Review pricing, discount strategies, and cost structure for Furniture, which shows lower profitability despite strong sales.
 - Improve sales and marketing strategies in the South region to address underperformance and drive growth.
 
+## Superstore Sales Performance Dashboard
+Interactive dashboard published on Tableau Public demonstrating:
+- Sales trend across months with Q4 seasonality
+- Category-level performance (Technology, Furniture, Office Supplies)
+- Regional performance highlighting underperforming markets
+
+View Live Dashboard:
+```bash
+https://public.tableau.com/views/SuperstoreSalesAnalysis_17681908368670/SuperstoreSalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+```
